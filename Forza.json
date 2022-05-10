@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Forza",
+    "version": "4.14.277",
+    "link": "https://sourceforge.net/projects/forza-kernel/files/Forza-kernel-Miatoll-2022-05-1023.zip/download",
+    "changelog_url": "https://raw.githubusercontent.com/Abhishek001konni/forza_json/main/changelog.md",
+    "date": "2022-05-10",
+    "sha1": "fa931254c3f1ca67860e36d95d6656ca981cdcf6"
+  },
+  "support": {
+    "link": "https://t.me/playground_7"
+  }
+}
